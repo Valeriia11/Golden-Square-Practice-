@@ -1,0 +1,2 @@
+# This commits the staged changes. Use a message that describes what you have
+# done — this will be important for your future colleagues!
